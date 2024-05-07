@@ -1,0 +1,9 @@
+Debug/
+Release/
+.vs/
+.vscode/
+
+# C related
+*.o
+*.hex
+*.elf
